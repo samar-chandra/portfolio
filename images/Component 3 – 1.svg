@@ -1,0 +1,42 @@
+<svg id="Component_3_1" data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="70" height="94.153" viewBox="0 0 70 94.153">
+  <g id="Rectangle_21" data-name="Rectangle 21" transform="matrix(0.914, -0.407, 0.407, 0.914, 19.189, 0.813)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <rect width="2" height="29" rx="1" stroke="none"/>
+    <rect x="0.5" y="0.5" width="1" height="28" rx="0.5" fill="none"/>
+  </g>
+  <g id="Rectangle_22" data-name="Rectangle 22" transform="matrix(0.875, 0.485, -0.485, 0.875, 51.155, 0.486)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <rect width="2" height="29" rx="1" stroke="none"/>
+    <rect x="0.5" y="0.5" width="1" height="28" rx="0.5" fill="none"/>
+  </g>
+  <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(11 8.153)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <circle cx="24" cy="24" r="24" stroke="none"/>
+    <circle cx="24" cy="24" r="23.5" fill="none"/>
+  </g>
+  <g id="Path_23" data-name="Path 23" transform="translate(11 28.153)" fill="#0f996d">
+    <path d="M 42 47.5 L 6 47.5 C 2.967289924621582 47.5 0.5 45.03271102905273 0.5 42 L 0.5 0.5 L 47.5 0.5 L 47.5 42 C 47.5 45.03271102905273 45.03271102905273 47.5 42 47.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 42 C 1 44.75701141357422 3.242988586425781 47 6 47 L 42 47 C 44.75701141357422 47 47 44.75701141357422 47 42 L 47 1 L 1 1 M 0 0 L 48 0 L 48 42 C 48 45.3137092590332 45.3137092590332 48 42 48 L 6 48 C 2.686290740966797 48 0 45.3137092590332 0 42 L 0 0 Z" stroke="none" fill="#0f996d"/>
+  </g>
+  <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(20 75.153)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <path d="M0,0H9A0,0,0,0,1,9,0V14.5A4.5,4.5,0,0,1,4.5,19h0A4.5,4.5,0,0,1,0,14.5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M.944.5H8.056A.444.444,0,0,1,8.5.944V14.5a4,4,0,0,1-4,4h0a4,4,0,0,1-4-4V.944A.444.444,0,0,1,.944.5Z" fill="none"/>
+  </g>
+  <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(40 75.153)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <path d="M0,0H9A0,0,0,0,1,9,0V14.5A4.5,4.5,0,0,1,4.5,19h0A4.5,4.5,0,0,1,0,14.5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M.944.5H8.056A.444.444,0,0,1,8.5.944V14.5a4,4,0,0,1-4,4h0a4,4,0,0,1-4-4V.944A.444.444,0,0,1,.944.5Z" fill="none"/>
+  </g>
+  <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(61 28.153)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <rect width="9" height="35" rx="4.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="8" height="34" rx="4" fill="none"/>
+  </g>
+  <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(0 28.153)" fill="#0f996d" stroke="#0f996d" stroke-width="1">
+    <rect width="9" height="35" rx="4.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="8" height="34" rx="4" fill="none"/>
+  </g>
+  <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(23 19.153)" fill="#fff" stroke="#fff" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Path_24" data-name="Path 24" transform="translate(45 19.153)" fill="#fff">
+    <path d="M 2 3.5 C 1.172899961471558 3.5 0.5 2.827100038528442 0.5 2 C 0.5 1.172899961471558 1.172899961471558 0.5 2 0.5 C 2.827100038528442 0.5 3.5 1.172899961471558 3.5 2 C 3.5 2.827100038528442 2.827100038528442 3.5 2 3.5 Z" stroke="none"/>
+    <path d="M 2 1 C 1.448600053787231 1 1 1.448600053787231 1 2 C 1 2.551399946212769 1.448600053787231 3 2 3 C 2.551399946212769 3 3 2.551399946212769 3 2 C 3 1.448600053787231 2.551399946212769 1 2 1 M 2 0 C 3.104569911956787 0 4 0.8954300880432129 4 2 C 4 3.104569911956787 3.104569911956787 4 2 4 C 0.8954300880432129 4 0 3.104569911956787 0 2 C 0 0.8954300880432129 0.8954300880432129 0 2 0 Z" stroke="none" fill="#fff"/>
+  </g>
+</svg>

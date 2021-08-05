@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="312" viewBox="0 0 820 312">
+  <defs>
+    <clipPath id="clip-google">
+      <rect width="820" height="312"/>
+    </clipPath>
+  </defs>
+  <g id="google" clip-path="url(#clip-google)">
+    <g id="google-issue-tracker" transform="translate(81.551 -69.252)">
+      <path id="Path_1" data-name="Path 1" d="M261.238,168.277,85.658,273.351a52.622,52.622,0,0,1-72.744-17.926,53.842,53.842,0,0,1,18.5-73.338L206.992,77.013a52.622,52.622,0,0,1,72.744,17.926,53.843,53.843,0,0,1-18.5,73.338Z" transform="translate(0 0)" fill="#ea4335" fill-rule="evenodd"/>
+      <path id="Path_2" data-name="Path 2" d="M206.472,309.467l-173.7-99.875C7.2,195.418-1.914,162.967,12.417,137.115s46.677-35.32,72.248-21.147l173.7,99.878c25.572,14.173,34.682,46.621,20.351,72.474S232.044,323.642,206.472,309.467Z" transform="translate(0.295 65.201)" fill="#4285f4" fill-rule="evenodd"/>
+      <path id="Path_3" data-name="Path 3" d="M222.768,309.467l173.7-99.875c25.569-14.173,34.682-46.624,20.351-72.477s-46.677-35.32-72.248-21.147l-173.7,99.878c-25.572,14.173-34.682,46.621-20.351,72.474s46.677,35.322,72.248,21.147Z" transform="translate(224.662 65.201)" fill="#fbbc04" fill-rule="evenodd"/>
+      <path id="Path_4" data-name="Path 4" d="M169.162,168.277l175.58,105.075a52.622,52.622,0,0,0,72.744-17.926,53.842,53.842,0,0,0-18.5-73.338L223.408,77.013a52.622,52.622,0,0,0-72.744,17.926A53.843,53.843,0,0,0,169.162,168.277Z" transform="translate(223.796 0)" fill="#0f9d58" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
