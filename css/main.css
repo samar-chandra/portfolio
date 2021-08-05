@@ -50,11 +50,16 @@ img {
     width: 100%;
 }
 
+.nav-container nav {
+    margin-top: 15px;
+}
+
 .nav-container {
     background-color: #100E0C;
 }
 
 .nav-container a {
+    text-align: center;
     color: white;
 }
 
@@ -90,6 +95,12 @@ header ul a {
 .hero-design {
     display: none;
     z-index: 100;
+}
+
+.skills h1 {
+    margin: -50px 0 0 0;
+    font-size: 10vw;
+    color: white;
 }
 
 .hero {
@@ -203,13 +214,39 @@ section {
     margin-bottom: 2em;
 }
 
-.portfolio {
-    background-color: #F7F7F7;
+.portfolio-container {
+    padding: 5px;
+}
+
+.portfolio .prism {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('../images/prism_logo.png');
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.portfolio .dsc {
+    margin-top: 100px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('../images/google.png');
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.portfolio h1 {
+    margin: -50px 0 0 0;
+    font-size: 9vw;
+    color: #8FCFBB;
+    text-align: center;
 }
 
 .portfolio-container a img {
     border-radius: 1em;
     margin-bottom: 2em;
+}
+
+.icon-container-three i {
+    font-size: 30px;
 }
 
 footer {
@@ -249,7 +286,17 @@ footer {
     border: 10px solid white;
 }
 
+.rounded {
+    border-radius: 5px;
+}
+
 @media only screen and (min-width: 800px) {
+    .featured h1 {
+        display: block;
+    }
+    .nav-container nav {
+        margin-top: 0px;
+    }
     #pixie {
         display: inline;
     }
@@ -349,21 +396,27 @@ footer {
         -ms-flex-pack: center;
         justify-content: center;
         margin-top: 0px;
+        position: relative;
     }
     .social-header ul {
         display: -webkit-box;
         display: -ms-flexbox;
-        display: flex;
+        display: inline;
         -webkit-box-pack: justify;
         -ms-flex-pack: justify;
         justify-content: space-between;
         width: 21em;
+        position: absolute;
+        right: 0;
+        margin-right: -70px;
+        margin-top: 50%;
+        text-align: center;
     }
     .social-header i {
         width: 80px;
         height: 80px;
         font-size: 60px;
-        color: #3CA270;
+        color: #100F0D;
         text-align: center;
         line-height: 80px;
     }
@@ -402,6 +455,10 @@ footer {
     }
     .portfolio img {
         float: right;
+    }
+    .gdsc {
+        width: 500px;
+        margin-top: 50px;
     }
 }
 
