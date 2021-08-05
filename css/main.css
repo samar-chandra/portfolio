@@ -409,22 +409,31 @@ footer {
         position: absolute;
         right: 0;
         margin-right: -70px;
-        margin-top: 50%;
+        margin-top: 38%;
         text-align: center;
     }
     .social-header i {
-        width: 80px;
-        height: 80px;
-        font-size: 60px;
-        color: #100F0D;
-        text-align: center;
-        line-height: 80px;
-    }
-    .social-header i:hover {
+        width: 60px;
+        height: 60px;
+        font-size: 40px;
         padding: 2px;
+        margin: 2px;
         color: white;
         background-color: #3CA270;
         border: 5px solid #3CA270;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 60px;
+    }
+    .social-header i:hover {
+        width: 80px;
+        height: 80px;
+        font-size: 60px;
+        line-height: 80px;
+        padding: 2px;
+        color: white;
+        background-color: #192D2F;
+        border: 5px solid #192D2F;
         border-radius: 50%;
         -webkit-transition: all 0.5s ease;
         transition: all 0.5s ease;
