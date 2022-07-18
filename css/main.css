@@ -233,6 +233,15 @@ section {
     background-repeat: no-repeat;
 }
 
+.portfolio .gfg {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('../images/gfg.png');
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
 .portfolio h1 {
     margin: -50px 0 0 0;
     font-size: 9vw;
@@ -494,7 +503,7 @@ footer {
         padding: 2em 10em 2em 0;
     }
     section {
-        padding: 10em 10em 4em 20em;
+        padding: 10em 10em 4em 10em;
     }
     .hero .content {
         padding: 6em 8em 6em 20em;
